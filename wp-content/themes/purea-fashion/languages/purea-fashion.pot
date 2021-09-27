@@ -1,0 +1,407 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2021-06-02 11:42+0530\n"
+"PO-Revision-Date: 2021-06-02 11:42+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: ;__;_e;esc_html;esc_html__;esc_attr;esc_attr__;"
+"esc_attr_e;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: functions.php:34
+msgid ""
+"You need to update your PHP version to a minimum of 5.6 to run Purea Fashion "
+"WordPress Theme."
+msgstr ""
+
+#: functions.php:37
+msgid "Actual version is:"
+msgstr ""
+
+#: functions.php:39
+msgid "required is"
+msgstr ""
+
+#: functions.php:114
+msgid " SEC READ"
+msgstr ""
+
+#: functions.php:116
+msgid " MIN READ"
+msgstr ""
+
+#: inc/theme-info.php:135
+msgid "About Purea Fashion Theme"
+msgstr ""
+
+#: inc/theme-info.php:135
+msgid "About Purea Fashion"
+msgstr ""
+
+#: inc/theme-info.php:135
+msgid "purea-fashion-theme-info"
+msgstr ""
+
+#: inc/theme-info.php:135
+msgid "purea_fashion_theme_info"
+msgstr ""
+
+#: inc/theme-info.php:148
+msgid "Thank you for using Purea Fashion free WordPress theme"
+msgstr ""
+
+#: inc/theme-info.php:150
+msgid ""
+"Purea Fashion theme is a ideal theme for all fashion related websites like "
+"lifestyle blog, recipe, travel and food, beauty, makeup, wedding and "
+"personal etc. The theme is translation ready and easily customizable. "
+"Optimized for speed and 1 click demo import options, this theme only take "
+"few minutes to setup. We also provide free support for this theme in case "
+"you need it."
+msgstr ""
+
+#: inc/theme-info.php:162
+msgid "VIEW DEMO"
+msgstr ""
+
+#: inc/theme-info.php:172
+msgid "VIEW DOCUMENTATION"
+msgstr ""
+
+#: inc/theme-info.php:182
+msgid "VIDEO TUTORIALS"
+msgstr ""
+
+#: inc/theme-info.php:192
+msgid "ASK FOR SUPPORT"
+msgstr ""
+
+#: inc/theme-info.php:203
+msgid "RATE OUR THEME"
+msgstr ""
+
+#: inc/theme-info.php:213
+msgid "VIEW CHANGELOGS"
+msgstr ""
+
+#: inc/theme-info.php:221
+msgid "FREE VS PRO"
+msgstr ""
+
+#: inc/theme-info.php:226
+msgid "Feature"
+msgstr ""
+
+#: inc/theme-info.php:227
+msgid "Purea Fashion Free"
+msgstr ""
+
+#: inc/theme-info.php:228
+msgid "Pro Addon Plugin"
+msgstr ""
+
+#: inc/theme-info.php:233
+msgid "Favicon, Logo, Title and Tagline Customization"
+msgstr ""
+
+#: inc/theme-info.php:238
+msgid "Customizer Theme Options"
+msgstr ""
+
+#: inc/theme-info.php:243
+msgid "Post Category Widgets"
+msgstr ""
+
+#: inc/theme-info.php:248
+msgid "Top Social Icons"
+msgstr ""
+
+#: inc/theme-info.php:253
+msgid "2 & 3 Columns Layout"
+msgstr ""
+
+#: inc/theme-info.php:258
+msgid "Trending News"
+msgstr ""
+
+#: inc/theme-info.php:263
+msgid "Highlight Boxes"
+msgstr ""
+
+#: inc/theme-info.php:268
+msgid "Preloader"
+msgstr ""
+
+#: inc/theme-info.php:273
+msgid "Responsive Design"
+msgstr ""
+
+#: inc/theme-info.php:278
+msgid "RTL Support"
+msgstr ""
+
+#: inc/theme-info.php:283
+msgid "Sidebar Options (Full, Left and Right)"
+msgstr ""
+
+#: inc/theme-info.php:288
+msgid "1 Click Demo Import"
+msgstr ""
+
+#: inc/theme-info.php:293
+msgid "Gutenberg Compatible"
+msgstr ""
+
+#: inc/theme-info.php:299
+msgid "Color Settings"
+msgstr ""
+
+#: inc/theme-info.php:304
+msgid "Light and Dark Mode"
+msgstr ""
+
+#: inc/theme-info.php:309
+msgid "800+ Google Fonts"
+msgstr ""
+
+#: inc/theme-info.php:314
+msgid "Social Sharing Icons"
+msgstr ""
+
+#: inc/theme-info.php:319
+msgid "Author Details in Single Post"
+msgstr ""
+
+#: inc/theme-info.php:324
+msgid "Author Widget with Social Icons"
+msgstr ""
+
+#: inc/theme-info.php:329
+msgid "3 Different Header Styles"
+msgstr ""
+
+#: inc/theme-info.php:334
+msgid "WooCommerce Settings"
+msgstr ""
+
+#: inc/theme-info.php:339
+msgid "Sticky Header"
+msgstr ""
+
+#: inc/theme-info.php:344
+msgid "Breadcrumb Display"
+msgstr ""
+
+#: inc/theme-info.php:349
+msgid "Related Posts"
+msgstr ""
+
+#: inc/theme-info.php:354
+msgid "3 Posts Slider"
+msgstr ""
+
+#: inc/theme-info.php:359
+msgid "MailChimp Newsletter Integration"
+msgstr ""
+
+#: inc/theme-info.php:364
+msgid "Footer Columns Widgets"
+msgstr ""
+
+#: inc/theme-info.php:369
+msgid "Popular Posts Widget"
+msgstr ""
+
+#: inc/theme-info.php:374
+msgid "Extra PRO Demos"
+msgstr ""
+
+#: inc/theme-info.php:379
+msgid "Priority Support"
+msgstr ""
+
+#: inc/theme-info.php:386
+msgid "Upgrade to PRO"
+msgstr ""
+
+#: inc/widgets/posts-layout-1-widget.php:21
+msgid "Purea Fashion: Posts Layout 1 Widget"
+msgstr ""
+
+#: inc/widgets/posts-layout-1-widget.php:22
+msgid "This will show posts in a row based on the number of columns. "
+msgstr ""
+
+#: inc/widgets/posts-layout-1-widget.php:111
+#: inc/widgets/posts-layout-2-widget.php:114 template-parts/post/content.php:28
+msgid "post-image"
+msgstr ""
+
+#: inc/widgets/posts-layout-1-widget.php:157
+msgid "By: "
+msgstr ""
+
+#: inc/widgets/posts-layout-1-widget.php:179
+#: inc/widgets/posts-layout-2-widget.php:206
+msgid "+ View More"
+msgstr ""
+
+#: inc/widgets/posts-layout-1-widget.php:219
+#: inc/widgets/posts-layout-2-widget.php:246
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/posts-layout-1-widget.php:223
+#: inc/widgets/posts-layout-2-widget.php:250
+msgid "Number of posts:"
+msgstr ""
+
+#: inc/widgets/posts-layout-1-widget.php:226
+#: inc/widgets/posts-layout-2-widget.php:253
+msgid "Choose Columns:"
+msgstr ""
+
+#: inc/widgets/posts-layout-1-widget.php:230
+#: inc/widgets/posts-layout-2-widget.php:261
+msgid "2 Columns"
+msgstr ""
+
+#: inc/widgets/posts-layout-1-widget.php:234
+msgid "3 Columns"
+msgstr ""
+
+#: inc/widgets/posts-layout-1-widget.php:238
+msgid "4 Columns"
+msgstr ""
+
+#: inc/widgets/posts-layout-1-widget.php:241
+#: inc/widgets/posts-layout-2-widget.php:264
+msgid "Choose Post Category:"
+msgstr ""
+
+#: inc/widgets/posts-layout-1-widget.php:243
+#: inc/widgets/posts-layout-2-widget.php:266
+msgid "Category"
+msgstr ""
+
+#: inc/widgets/posts-layout-1-widget.php:244
+#: inc/widgets/posts-layout-2-widget.php:267
+msgid "-- Select -- "
+msgstr ""
+
+#: inc/widgets/posts-layout-1-widget.php:247
+#: inc/widgets/posts-layout-2-widget.php:270
+msgid "Choose Excerpt:"
+msgstr ""
+
+#: inc/widgets/posts-layout-1-widget.php:249
+#: inc/widgets/posts-layout-2-widget.php:272
+msgid "excerpt"
+msgstr ""
+
+#: inc/widgets/posts-layout-1-widget.php:250
+#: inc/widgets/posts-layout-2-widget.php:273
+msgid "Show Excerpt"
+msgstr ""
+
+#: inc/widgets/posts-layout-1-widget.php:253
+#: inc/widgets/posts-layout-2-widget.php:276
+msgid "Number of Excerpt Words:"
+msgstr ""
+
+#: inc/widgets/posts-layout-1-widget.php:257
+#: inc/widgets/posts-layout-2-widget.php:280
+msgid "Choose Meta:"
+msgstr ""
+
+#: inc/widgets/posts-layout-1-widget.php:259
+#: inc/widgets/posts-layout-2-widget.php:282
+msgid "author"
+msgstr ""
+
+#: inc/widgets/posts-layout-1-widget.php:260
+#: inc/widgets/posts-layout-2-widget.php:283
+msgid "Show Author"
+msgstr ""
+
+#: inc/widgets/posts-layout-1-widget.php:263
+#: inc/widgets/posts-layout-2-widget.php:286
+msgid "date"
+msgstr ""
+
+#: inc/widgets/posts-layout-1-widget.php:264
+#: inc/widgets/posts-layout-2-widget.php:287
+msgid "Show Date"
+msgstr ""
+
+#: inc/widgets/posts-layout-1-widget.php:267
+#: inc/widgets/posts-layout-2-widget.php:290
+msgid "minread"
+msgstr ""
+
+#: inc/widgets/posts-layout-1-widget.php:268
+#: inc/widgets/posts-layout-2-widget.php:291
+msgid "Show Reading Time"
+msgstr ""
+
+#: inc/widgets/posts-layout-1-widget.php:271
+#: inc/widgets/posts-layout-2-widget.php:294
+msgid "Adjust Title Position:"
+msgstr ""
+
+#: inc/widgets/posts-layout-1-widget.php:273
+#: inc/widgets/posts-layout-1-widget.php:279
+#: inc/widgets/posts-layout-2-widget.php:296
+#: inc/widgets/posts-layout-2-widget.php:302
+msgid "Margin Top (px):"
+msgstr ""
+
+#: inc/widgets/posts-layout-1-widget.php:277
+#: inc/widgets/posts-layout-2-widget.php:300
+msgid "Adjust Section Spacing Position:"
+msgstr ""
+
+#: inc/widgets/posts-layout-1-widget.php:283
+#: inc/widgets/posts-layout-2-widget.php:306
+msgid "Margin Bottom (px):"
+msgstr ""
+
+#: inc/widgets/posts-layout-1-widget.php:288
+#: inc/widgets/posts-layout-2-widget.php:311
+msgid "borderbottom"
+msgstr ""
+
+#: inc/widgets/posts-layout-1-widget.php:289
+#: inc/widgets/posts-layout-2-widget.php:312
+msgid "Show Border Bottom Line"
+msgstr ""
+
+#: inc/widgets/posts-layout-2-widget.php:21
+msgid "Purea Fashion: Posts Layout 2 Widget"
+msgstr ""
+
+#: inc/widgets/posts-layout-2-widget.php:22
+msgid ""
+"This will show one/two columns full width post and the rest will arrange "
+"itself in two columns. "
+msgstr ""
+
+#: inc/widgets/posts-layout-2-widget.php:257
+msgid "1 Column"
+msgstr ""
+
+#: purea-fashion-pro/class-customize.php:74
+msgid "Purea Fashion Pro"
+msgstr ""
+
+#: purea-fashion-pro/class-customize.php:75
+msgid "Upgrade to Pro"
+msgstr ""

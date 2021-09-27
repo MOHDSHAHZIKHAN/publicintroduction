@@ -1,0 +1,25 @@
+
+div[id*=purea_fashion] .widget-top {
+    cursor: pointer;
+    background: linear-gradient(45deg, #ff9800, #ff5722);
+    color: #fff !important;
+    border: none; 
+}
+
+div[id*=purea_fashion] .widget-top h3,
+div[id*=purea_fashion] .widget-top .widget-action .toggle-indicator:before {
+    color: #fff !important; 
+}
+
+div[id*=tpl-purea_fashion] {
+	background: linear-gradient(45deg, #ff9800, #ff5722) !important;
+}
+
+div[id*=tpl-purea_fashion] .widget-title:before,
+div[id*=tpl-purea_fashion] .widget-description {
+	 color: #fff !important;
+}
+
+li#accordion-section-purea_magazine_buy {
+	display: none !important;
+}
